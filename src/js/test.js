@@ -1,2 +1,2 @@
-console.log("Imported module");
-export default 23;
+console.log("Test js");
+export default 12345678;
